@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 28,
   "updated": "2026-10-31",
   "products": [
     {
@@ -20,15 +20,15 @@
       "id": "outfit_休闲卫衣",
       "kind": "outfit",
       "name": "休闲卫衣",
-      "tier": "free",
-      "file": "packs/休闲卫衣.gmoutfit",
+      "tier": "paid",
+      "file": "packs_enc/休闲卫衣.enc",
       "sha256": "bffd8a273ecb383ea6eb8da9bb752df497a2adc34fb4cb0a5d13e47af5432804",
       "size": 4175508,
       "cover": "",
       "cover_sha": "",
       "desc": "",
       "targets": null,
-      "enc": false
+      "enc": true
     },
     {
       "id": "base_元气运动",
@@ -230,15 +230,15 @@
       "id": "outfit_牛仔套装",
       "kind": "outfit",
       "name": "牛仔套装",
-      "tier": "free",
-      "file": "packs/牛仔套装.gmoutfit",
+      "tier": "paid",
+      "file": "packs_enc/牛仔套装.enc",
       "sha256": "71803bb3500bc9366ce72780297120e904aa0d0e6aed08b7bf87d3295b8008a1",
       "size": 4387377,
       "cover": "",
       "cover_sha": "",
       "desc": "",
       "targets": null,
-      "enc": false
+      "enc": true
     },
     {
       "id": "base_甜妹",
@@ -314,15 +314,15 @@
       "id": "outfit_白衬衫",
       "kind": "outfit",
       "name": "白衬衫",
-      "tier": "free",
-      "file": "packs/白衬衫.gmoutfit",
+      "tier": "paid",
+      "file": "packs_enc/白衬衫.enc",
       "sha256": "790e6710a09f64d709b6f1325037971c1dbe6fad105970e992c5ed3681ef0624",
       "size": 3545377,
       "cover": "",
       "cover_sha": "",
       "desc": "",
       "targets": null,
-      "enc": false
+      "enc": true
     },
     {
       "id": "outfit_碎花连衣裙",
@@ -426,57 +426,57 @@
       "id": "outfit_运动套装",
       "kind": "outfit",
       "name": "运动套装",
-      "tier": "free",
-      "file": "packs/运动套装.gmoutfit",
+      "tier": "paid",
+      "file": "packs_enc/运动套装.enc",
       "sha256": "0f79aa520a991527291a6b5ceded345caa0a2e4b15d81e9bf352efaccc947b22",
       "size": 3719147,
       "cover": "",
       "cover_sha": "",
       "desc": "",
       "targets": null,
-      "enc": false
+      "enc": true
     },
     {
       "id": "base_邻家女孩",
       "kind": "base",
       "name": "邻家女孩",
-      "tier": "free",
-      "file": "packs/邻家女孩.gmbase",
+      "tier": "paid",
+      "file": "packs_enc/邻家女孩.enc",
       "sha256": "286643c8abf6ce92de18ed14055e76cd9cce795cfa8fa9d33d3015f0980d623e",
       "size": 54502171,
       "cover": "",
       "cover_sha": "",
       "desc": "",
       "targets": null,
-      "enc": false
+      "enc": true
     },
     {
       "id": "outfit_针织半裙",
       "kind": "outfit",
       "name": "针织半裙",
-      "tier": "free",
-      "file": "packs/针织半裙.gmoutfit",
+      "tier": "paid",
+      "file": "packs_enc/针织半裙.enc",
       "sha256": "1049fb22a5915888fa2a0312d3c44d197e5d37a2a8dfbed91c5c649fe1b3b6b3",
       "size": 4072923,
       "cover": "",
       "cover_sha": "",
       "desc": "",
       "targets": null,
-      "enc": false
+      "enc": true
     },
     {
       "id": "outfit_青花旗袍",
       "kind": "outfit",
       "name": "青花旗袍",
-      "tier": "free",
-      "file": "packs/青花旗袍.gmoutfit",
+      "tier": "paid",
+      "file": "packs_enc/青花旗袍.enc",
       "sha256": "871887ba9ae3eaee05320171320e978321c87644f0e96ba335c5b9222fd4c338",
       "size": 4214836,
       "cover": "",
       "cover_sha": "",
       "desc": "",
       "targets": null,
-      "enc": false
+      "enc": true
     },
     {
       "id": "outfit_黑色连裤袜造型",
